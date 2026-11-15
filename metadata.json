@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Distraction-free study timer with focus mode, notification shielding, Pomodoro cycles, ambient focus soundscapes, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

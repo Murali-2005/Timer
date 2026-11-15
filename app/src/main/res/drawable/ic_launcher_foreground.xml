@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Halo (Focus Shield) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,23 C68,23 79,27 79,37 C79,59 54,82 54,82 C54,82 29,59 29,37 C29,27 40,23 54,23 Z" />
+
+    <!-- Inner Shield Tint -->
+    <path
+        android:fillColor="#1E293B"
+        android:fillAlpha="0.6"
+        android:pathData="M54,25 C66,25 76,29 76,38 C76,57 54,78 54,78 C54,78 32,57 32,38 C32,29 42,25 54,25 Z" />
+
+    <!-- Hourglass Body (Upper Bulb) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M43,33 L65,33 L65,35 L56,46 L52,46 L43,35 Z" />
+
+    <!-- Hourglass Center Beam -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M52.5,46 L55.5,46 L55.5,58 L52.5,58 Z" />
+
+    <!-- Hourglass Body (Lower Bulb with accumulated study sand) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M43,69 L65,69 L65,67 L56,58 L52,58 L43,67 Z" />
+
+    <!-- Focus Sparkle Star (Top Right) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M71,31 L72.5,35 L76.5,36.5 L72.5,38 L71,42 L69.5,38 L65.5,36.5 L69.5,35 Z" />
+
+    <!-- Calming Zen Dot -->
+    <path
+        android:fillColor="#6EE7B7"
+        android:pathData="M54,64 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+</vector>
